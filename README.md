@@ -1,2 +1,2 @@
-# UNO-JS-Assess_Public
-UNO JavaScript assessment - public.
+# UNO-JS-Assessment
+Practice JS Assesment.
