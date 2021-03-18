@@ -1,2 +1,2 @@
 # UNO-JS-Assessment
-Practice JS Assesment.
+Following completion of part 1 of UNO's JS Cert Program.
